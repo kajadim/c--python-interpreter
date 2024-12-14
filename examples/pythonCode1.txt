@@ -1,0 +1,17 @@
+a = 1 
+for i in range(2,4):
+    if a == 3 :
+        print("a")
+        print(a)
+    else :
+        print("i")
+        print(i)
+    a = i + 1
+praktikum = "Praktukum iz oop"
+poop = "POOP"
+znak = " <3 " * 3
+predmet = praktikum + " : " + poop + znak * 2
+print(predmet)
+a = (10 + 2)/6 + 3
+print(a)
+run
